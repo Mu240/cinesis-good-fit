@@ -1,7 +1,7 @@
 # Cinesis — Good Fit Test
 
 ## Code
-https://github.com/<your-username>/cinesis-good-fit
+https://github.com/Mu240/cinesis-good-fit.git
 
 ## Assumptions
 - The truck is **currently in Dallas** ("I'm in Dallas") and the driver's **home base is San Antonio** ("based out in San Antonio"). These are different points: deadhead-to-origin starts in Dallas, deadhead-home ends in San Antonio.
